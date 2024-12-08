@@ -4,11 +4,11 @@ Deteksi stress dengan suara menggunakan model ANN dan platform Raspberry Pi 4B
 
 ## Anggota Kelompok
 
-Abdullah Fathan - 215150300111023
-Sajdah Kholifatul Nisa - 215150301111010
-Ahmad Dzikri Fathulramdhan - 215150307111004
-Rafif Ramadhani Azmi - 215150300111020
-Muhammad Daffa Ramadhani - 215150300111035
+1. Abdullah Fathan - 215150300111023
+2. Sajdah Kholifatul Nisa - 215150301111010
+3. Ahmad Dzikri Fathulramdhan - 215150307111004
+4. Rafif Ramadhani Azmi - 215150300111020
+5. Muhammad Daffa Ramadhani - 215150300111035
 
 ## Komponenen
 
