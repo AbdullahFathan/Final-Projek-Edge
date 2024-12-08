@@ -28,4 +28,4 @@ Deteksi stress dengan suara menggunakan model ANN dan platform Raspberry Pi 4B
 
 2. Video Demo
 
-assets/video_demo.mp4
+[Tekan Saya](https://drive.google.com/file/d/1_CYfVi0nEDSSncCDu5UBidSD9NjiWFgG/view)
