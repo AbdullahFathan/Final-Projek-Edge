@@ -18,7 +18,7 @@ Deteksi stress dengan suara menggunakan model ANN dan platform Raspberry Pi 4B
 
 ## Dataset
 
-[Dataset Suara](https://drive.google.com/drive/folders/1V3beCq4iFl9vQK5OblUxeONiCVzAuFiw?usp=sharing)
+[Dataset Suara (menggunakan email ub)](https://drive.google.com/drive/folders/1V3beCq4iFl9vQK5OblUxeONiCVzAuFiw?usp=sharing)
 
 ## Arsitektur Sistem
 
